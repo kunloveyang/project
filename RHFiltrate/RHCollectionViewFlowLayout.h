@@ -13,5 +13,5 @@
 @end
 
 @protocol RHCollectionViewDelegateFlowLayout <UICollectionViewDelegateFlowLayout>
-//  asdasdasdasd
+
 @end
